@@ -1,0 +1,11 @@
+body {
+  h1, article>h2, article>h3, article>h4, article>h5, article>h6 {
+    font-family: "Noto Serif SC","Noto Serif CJK SC",华文中宋,STZhongsong,STSong,Songti SC,宋体,SimSun,PingFang SC,Microsoft YaHei,sans-serif;
+  }
+  font-family: Optima, Candara, Calibri, Arial, sans-serif;
+  font-size: 18px;
+}
+code {
+  font-family: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace;
+  font-size: 95%;
+}
