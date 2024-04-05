@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Rinpo&#39;s Site</title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on Rinpo&#39;s Site</description>
+    <title>网络安全 on Rinpo&#39;s Site</title>
+    <link>/categories/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/</link>
+    <description>Recent content in 网络安全 on Rinpo&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 05 Apr 2024 11:01:37 +0800</lastBuildDate>
-    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CC链</title>
       <link>/posts/2024/03/06/cc%E9%93%BE/</link>
@@ -21,13 +21,6 @@
       <pubDate>Wed, 06 Mar 2024 18:39:19 +0800</pubDate>
       <guid>/posts/2024/03/06/java%E5%AE%89%E5%85%A8%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/</guid>
       <description>&lt;p&gt;来自bilibili up：&lt;a href=&#34;https://space.bilibili.com/1106751850&#34;&gt;n1ar4&lt;/a&gt; (4ra1n师傅)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Plain Markdown Post</title>
-      <link>/posts/2024/01/29/a-plain-markdown-post/</link>
-      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/2024/01/29/a-plain-markdown-post/</guid>
-      <description>This sample post is mainly for blogdown users. If you do not use blogdown, you can skip the first section.&#xA;1. Markdown or R Markdown This is a post written in plain Markdown (*.</description>
     </item>
   </channel>
 </rss>

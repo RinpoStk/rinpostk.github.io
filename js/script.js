@@ -43,7 +43,6 @@ let checkscroll = function () {
   }
 }
 
-
 backtop.onclick = function(){
   if (clickable) {
     backToTop(20);
@@ -51,3 +50,13 @@ backtop.onclick = function(){
 }
 checkscroll()
 window.addEventListener('scroll',checkscroll)
+
+function openNav() {
+  document.getElementById("toc").style.marginRight = "0";
+  // document.getElementById("body").style.marginLeft = "230px";
+}
+
+function closeNav() {
+  document.getElementById("toc").style.marginRight = "-245px";
+  // document.getElementById("body").style.marginLeft= "0";
+}
